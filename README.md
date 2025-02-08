@@ -79,6 +79,15 @@ For a full list of dependencies, see [requirements.txt](requirements.txt).
 - `inicial.ipynb`: A Jupyter notebook that contains the main logic and execution flow of the project.
 - `requirements.txt`: A file listing all the Python dependencies needed to run this project.
 
+
+## Code Running
+![image](https://github.com/user-attachments/assets/54636494-736e-48f3-80a3-b0b49fe8fd3a)
+
+![image](https://github.com/user-attachments/assets/7fa23c40-90cb-41ad-bca4-240e2f600b10)
+
+![image](https://github.com/user-attachments/assets/46e36c05-b34a-4551-b106-59b9964b91cd)
+
+
 ## License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
