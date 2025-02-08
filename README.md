@@ -1,6 +1,10 @@
-# Project Name
+# Python Insights - Analyzing Data With Python
 
-A brief description of your project, outlining its purpose and main features.
+Customers Cancellations
+
+You were hired by a company with more than 800 thousand customers for a Data project. Recently the company realized that of it's total customer base, the majority are inactive customers, that is, those who already canceled the service.  
+
+Needing improve it's results, the company wants to be able to understand the main reasons for these cancellations and what are the most efficient actions to reduce this number. 
 
 ## Table of Contents
 
@@ -14,7 +18,7 @@ A brief description of your project, outlining its purpose and main features.
 
 ## About the Project
 
-This project is designed to [insert purpose here]. It provides functionalities for [briefly list major functionalities or use cases].
+This project is designed to Data Analysis . It provides functionalities for graphical analysis and problem solving.
 
 ## Features
 
